@@ -1,2 +1,2 @@
 # Local-search-with-replacement-movement-and-inversion-movement
-Local search with replacement movement and inversion movement.
+Local search with replacement movement and inversion movement, the program has a function for each movement and implements the principle of the local search method which is a standard heuristic that gives an approximate solution to the given hard problem, the degree of realibility of the solution is controlled by the defined maximum iterations that we've given (which is MAX_ITR) in our program, the bigger MAX_ITR is, the more approximate our solution is to the absolute optimum (which is not identifiable in these types of problems).
